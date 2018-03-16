@@ -75,10 +75,10 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\include;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\include;$(SolutionDir)FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\lib-vc2015;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\lib-vc2015;$(SolutionDir)FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glu32.lib;opengl32.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -87,10 +87,10 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\include;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\include;$(SolutionDir)FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\lib-vc2015;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\lib-vc2015;$(SolutionDir)FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glu32.lib;opengl32.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -101,12 +101,12 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\include;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\include;$(SolutionDir)FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\lib-vc2015;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\lib-vc2015;$(SolutionDir)FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glu32.lib;opengl32.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -117,12 +117,12 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\include;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\include;$(SolutionDir)FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\glfw-3.2.1.bin.WIN32\lib-vc2015;C:\Users\User\Desktop\The Ultimate Folders\KDU College\Semester 5\Graphics Programming\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)glfw-3.2.1.bin.WIN32\lib-vc2015;$(SolutionDir)FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;glu32.lib;opengl32.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

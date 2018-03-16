@@ -829,7 +829,7 @@ public:
 		glLoadMatrixf((GLfloat*)viewMatrix.mVal);
 
 		// Show Wireframes. //
-		//glPolygonMode(GL_FRONT_AND_BACK, GL_LINE); 
+		glPolygonMode(GL_FRONT_AND_BACK, GL_LINE); 
 
 		// ----------------------------------------------------------------------------------------------------
 		// Drawing the body. ---//
